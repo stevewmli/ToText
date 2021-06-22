@@ -3,3 +3,5 @@ pigpio==1.78
 numpy==1.20.3
 PyYAML==5.4.1
 opencv-python==4.4.0.46
+SpeechRecognition==3.8.1
+PyAudio==0.2.11
